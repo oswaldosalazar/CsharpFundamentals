@@ -10,9 +10,9 @@ namespace Fundamentals
             int yourAge = 35;
 
             myAge = 23;
-            // retirement = 72;
 
             const int retirement = 65;
+			// retirement = 72;
 
             int yearsToRetirementForMe = retirement - myAge;
             int yearsToRetirementForYou = retirement - yourAge;
